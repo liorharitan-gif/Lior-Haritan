@@ -1,0 +1,8 @@
+{
+  "name": "Evenly",
+  "description": "אפליקציית הורות משותפת לניהול תקשורת, הוצאות ויומן - מותאמת לישראל.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
